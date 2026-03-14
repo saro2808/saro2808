@@ -51,6 +51,7 @@ Data Engineering & Analytics
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
 </div>
 <br>
 
