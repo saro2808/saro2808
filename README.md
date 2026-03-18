@@ -46,16 +46,16 @@ Machine Learning & Data Science
 Data Engineering & Analytics
 <div>
   <img src="https://img.shields.io/badge/faiss-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/pyarrow-%23D5971A.svg?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/sqlalchemy-%23871F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
 </div>
 <div>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/pyarrow-%23D5971A.svg?style=for-the-badge&logo=apache&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://custom-icon-badges.demolab.com/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" />
 </div>
