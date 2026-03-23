@@ -38,7 +38,7 @@ Machine Learning & Data Science
 </div>
 <div>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Unsloth-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unsloth-4285F4?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Optuna-002C76?style=for-the-badge&logo=optuna&logoColor=white" />
 </div>
 <br>
@@ -46,7 +46,7 @@ Machine Learning & Data Science
 Data Engineering & Analytics
 <div>
   <img src="https://img.shields.io/badge/faiss-%230467DF.svg?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-333333?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/duckdb-%23FFF000.svg?style=for-the-badge&logo=duckdb&logoColor=black" />
   <img src="https://img.shields.io/badge/sqlalchemy-%23871F00.svg?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white" />
